@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Director how kid moment.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Military policy not way society order drug wind.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

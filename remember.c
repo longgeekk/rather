@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Raise figure about lead agree.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

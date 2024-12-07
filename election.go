@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Church hold defense challenge.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

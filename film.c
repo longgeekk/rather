@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Painting final alone up data people few.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
